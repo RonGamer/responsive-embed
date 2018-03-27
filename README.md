@@ -6,7 +6,7 @@ We used this CSS Style on [Casin.co.uk](https://www.casin.co.uk/) casino guide, 
 
 ## Usage Examples: 
 
-## Iframe Game Embed
+### Iframe Game Embed
   
   ```
   <div class="iframe-container iframe-container-for-wxh-75">
@@ -14,7 +14,7 @@ We used this CSS Style on [Casin.co.uk](https://www.casin.co.uk/) casino guide, 
    </div>
    
   ```
-## Flash Game Embed
+### Flash Game Embed
   
   ```
   <div class="iframe-container iframe-container-for-wxh-75">
