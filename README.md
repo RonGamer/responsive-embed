@@ -1,4 +1,4 @@
-# responsive-embed
+# Responsive Embed
 This a simple CSS style that to embed iframe or any object in a window. The size of the object is responsive and adjusts proportionally to its container.
 You can use it for iframes, flash files (swf) or video embeds like youtube iframe.
 
